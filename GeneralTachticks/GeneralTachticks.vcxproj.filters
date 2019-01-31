@@ -45,4 +45,256 @@
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="Assets\Units\blue_aa.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Units\blue_apc.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Units\blue_artillery.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Units\blue_basic_infantry.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Units\blue_comms_ship.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Units\blue_dropship.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Units\blue_gunship.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Units\blue_heavy_infantry.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Units\blue_heavy_tank.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Units\blue_heavy_turret.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Units\blue_light_tank.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Units\blue_light_turret.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Units\blue_mcv.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Units\blue_medic.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Units\blue_missile_turret.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Units\green_aa.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Units\green_apc.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Units\green_artillery.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Units\green_basic_infantry.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Units\green_comms_ship.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Units\green_dropship.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Units\green_gunship.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Units\green_heavy_infantry.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Units\green_heavy_tank.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Units\green_heavy_turret.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Units\green_light_tank.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Units\green_light_turret.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Units\green_mcv.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Units\green_medic.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Units\green_missile_turret.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Units\orange_aa.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Units\orange_apc.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Units\orange_artillery.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Units\orange_basic_infantry.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Units\orange_comms_ship.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Units\orange_dropship.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Units\orange_gunship.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Units\orange_heavy_infantry.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Units\orange_heavy_tank.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Units\orange_heavy_turret.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Units\orange_light_tank.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Units\orange_light_turret.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Units\orange_mcv.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Units\orange_medic.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Units\orange_missile_turret.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Units\red_aa.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Units\red_apc.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Units\red_artillery.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Units\red_basic_infantry.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Units\red_comms_ship.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Units\red_dropship.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Units\red_gunship.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Units\red_heavy_infantry.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Units\red_heavy_tank.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Units\red_heavy_turret.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Units\red_light_tank.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Units\red_light_turret.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Units\red_mcv.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Units\red_medic.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Units\red_missile_turret.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Terrain\dirt_green.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Terrain\dirt_normal.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Terrain\dirt_red.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Terrain\dirt_white.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Terrain\dirt_yellow.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Terrain\mud_green.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Terrain\mud_normal.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Terrain\mud_red.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Terrain\mud_white.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Terrain\mud_yellow.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Terrain\rock_green.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Terrain\rock_normal.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Terrain\rock_red.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Terrain\rock_white.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Terrain\rock_yellow.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Terrain\water_green.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Terrain\water_normal.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Terrain\water_red.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Terrain\water_white.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Terrain\water_yellow.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\Terrain\dirt_tile.ai" />
+    <None Include="Assets\Terrain\mud_tile.ai" />
+    <None Include="Assets\Terrain\rock_tile.ai" />
+    <None Include="Assets\Terrain\water_tile.ai" />
+    <None Include="libpng16-16.dll" />
+    <None Include="SDL2.dll" />
+    <None Include="SDL2_image.dll" />
+    <None Include="zlib1.dll" />
+  </ItemGroup>
 </Project>
